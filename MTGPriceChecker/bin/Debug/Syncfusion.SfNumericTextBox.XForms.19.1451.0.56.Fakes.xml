@@ -1,0 +1,884 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfNumericTextBox.XForms.19.1451.0.56.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs">
+            <summary>Shim-Typ von Syncfusion.SfNumericTextBox.XForms.FocusEventArgs</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.#ctor">
+            <summary>Initialisiert eine neue Shim-Instanz.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.#ctor(Syncfusion.SfNumericTextBox.XForms.FocusEventArgs)">
+            <summary>Initialisiert einen neuen Shim für die gegebene Instanz.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.AllInstances">
+            <summary>Shims für alle Instanzenmember definieren</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.AllInstances.HasFocusGet">
+            <summary>Legt die shim von FocusEventArgs.get_HasFocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.AllInstances.HasFocusSetBoolean">
+            <summary>Legt die shim von FocusEventArgs.set_HasFocus(Boolean value) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.BehaveAsCurrent">
+            <summary>Weist das &apos;Current&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.BehaveAsNotImplemented">
+            <summary>Weist das &apos;NotImplemented&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.Behavior">
+            <summary>Weist das Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.Constructor">
+            <summary>Legt die shim von FocusEventArgs.FocusEventArgs() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.HasFocusGet">
+            <summary>Legt die shim von FocusEventArgs.get_HasFocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimFocusEventArgs.HasFocusSetBoolean">
+            <summary>Legt die shim von FocusEventArgs.set_HasFocus(Boolean value) fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox">
+            <summary>Shim-Typ von Syncfusion.SfNumericTextBox.XForms.SfNumericTextBox</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.#ctor">
+            <summary>Initialisiert eine neue Shim-Instanz.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.#ctor(Syncfusion.SfNumericTextBox.XForms.SfNumericTextBox)">
+            <summary>Initialisiert einen neuen Shim für die gegebene Instanz.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances">
+            <summary>Shims für alle Instanzenmember definieren</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.AllowNullGet">
+            <summary>Legt die shim von SfNumericTextBox.get_AllowNull() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.AllowNullSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_AllowNull(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.BorderColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_BorderColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.BorderColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_BorderColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ClearButtonVisibilityGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ClearButtonVisibility() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ClearButtonVisibilitySetClearButtonVisibilityMode">
+            <summary>Legt die shim von SfNumericTextBox.set_ClearButtonVisibility(ClearButtonVisibilityMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.CompletedAddEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_Completed(EventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.CompletedRemoveEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_Completed(EventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.CultureGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Culture() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.CultureSetCultureInfo">
+            <summary>Legt die shim von SfNumericTextBox.set_Culture(CultureInfo value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.EnableGroupSeparatorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_EnableGroupSeparator() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.EnableGroupSeparatorSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_EnableGroupSeparator(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FocusChangedAddSfNumericTextBoxFocusEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_FocusChanged(FocusEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FocusChangedRemoveSfNumericTextBoxFocusEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_FocusChanged(FocusEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FocusedBorderColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FocusedBorderColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FocusedBorderColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_FocusedBorderColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontAttributesGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontAttributes() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontAttributesSetFontAttributes">
+            <summary>Legt die shim von SfNumericTextBox.set_FontAttributes(FontAttributes value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontFamilyGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontFamily() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontFamilySetString">
+            <summary>Legt die shim von SfNumericTextBox.set_FontFamily(String value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Font() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontSetFont">
+            <summary>Legt die shim von SfNumericTextBox.set_Font(Font value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontSizeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontSize() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FontSizeSetDouble">
+            <summary>Legt die shim von SfNumericTextBox.set_FontSize(Double value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FormatStringGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FormatString() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.FormatStringSetString">
+            <summary>Legt die shim von SfNumericTextBox.set_FormatString(String value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.GroupSeparatorModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_GroupSeparatorMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.GroupSeparatorModeSetGroupSeparatorMode">
+            <summary>Legt die shim von SfNumericTextBox.set_GroupSeparatorMode(GroupSeparatorMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.IsReadOnlyGet">
+            <summary>Legt die shim von SfNumericTextBox.get_IsReadOnly() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.IsReadOnlySetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_IsReadOnly(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.IsfocusGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Isfocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.IsfocusSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_Isfocus(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MaximumGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Maximum() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MaximumNumberDecimalDigitsGet">
+            <summary>Legt die shim von SfNumericTextBox.get_MaximumNumberDecimalDigits() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MaximumNumberDecimalDigitsSetInt32">
+            <summary>Legt die shim von SfNumericTextBox.set_MaximumNumberDecimalDigits(Int32 value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MaximumSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Maximum(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MinimumGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Minimum() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.MinimumSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Minimum(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.OnNumericTextPropertyChangedString">
+            <summary>Legt die shim von SfNumericTextBox.OnNumericTextPropertyChanged(String propertyName) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ParserModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ParserMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ParserModeSetParsers">
+            <summary>Legt die shim von SfNumericTextBox.set_ParserMode(Parsers value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.PercentDisplayModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_PercentDisplayMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.PercentDisplayModeSetPercentDisplayMode">
+            <summary>Legt die shim von SfNumericTextBox.set_PercentDisplayMode(PercentDisplayMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.PropertiesChangedGet">
+            <summary>Legt die shim von SfNumericTextBox.get_PropertiesChanged() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.PropertiesChangedSetListOfString">
+            <summary>Legt die shim von SfNumericTextBox.set_PropertiesChanged(List`1&lt;String&gt; value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.RaiseCompletedEventActionEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseCompletedEventAction(EventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.RaiseFocusChangingFocusEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseFocusChanging(FocusEventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.RaiseValueChangingValueEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseValueChanging(ValueEventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnCommandGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnCommand() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnCommandParameterGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnCommandParameter() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnCommandParameterSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnCommandParameter(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnCommandSetICommand">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnCommand(ICommand value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnTypeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnType() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ReturnTypeSetReturnType">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnType(ReturnType value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.SelectAllOnFocusGet">
+            <summary>Legt die shim von SfNumericTextBox.get_SelectAllOnFocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.SelectAllOnFocusSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_SelectAllOnFocus(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.SyncfusionXFormsThemesIParentThemeElementGetThemeDictionary">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IParentThemeElement.GetThemeDictionary() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.SyncfusionXFormsThemesIThemeElementOnCommonThemeChangedStringString">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IThemeElement.OnCommonThemeChanged(String oldTheme, String newTheme) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.SyncfusionXFormsThemesIThemeElementOnControlThemeChangedStringString">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IThemeElement.OnControlThemeChanged(String oldTheme, String newTheme) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.TextAlignmentGet">
+            <summary>Legt die shim von SfNumericTextBox.get_TextAlignment() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.TextAlignmentSetTextAlignment">
+            <summary>Legt die shim von SfNumericTextBox.set_TextAlignment(TextAlignment value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.TextColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_TextColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.TextColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_TextColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueChangeModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ValueChangeMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueChangeModeSetValueChangeMode">
+            <summary>Legt die shim von SfNumericTextBox.set_ValueChangeMode(ValueChangeMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueChangedAddSfNumericTextBoxValueEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_ValueChanged(ValueEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueChangedRemoveSfNumericTextBoxValueEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_ValueChanged(ValueEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Value() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.ValueSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Value(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.WatermarkColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_WatermarkColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.WatermarkColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_WatermarkColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.WatermarkGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Watermark() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllInstances.WatermarkSetString">
+            <summary>Legt die shim von SfNumericTextBox.set_Watermark(String value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllowNullGet">
+            <summary>Legt die shim von SfNumericTextBox.get_AllowNull() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.AllowNullSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_AllowNull(Boolean value) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.BehaveAsCurrent">
+            <summary>Weist das &apos;Current&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.BehaveAsNotImplemented">
+            <summary>Weist das &apos;NotImplemented&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Behavior">
+            <summary>Weist das Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(System.ComponentModel.INotifyPropertyChanged)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.IAnimatable)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.IElementController)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.IGestureRecognizers)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.ITabStopElement)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.IViewController)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.IVisualElementController)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.Internals.IDynamicResourceHandler)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.Internals.IGestureController)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.Internals.INameScope)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Bind(Xamarin.Forms.Internals.INavigationProxy)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.BorderColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_BorderColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.BorderColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_BorderColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ClearButtonVisibilityGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ClearButtonVisibility() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ClearButtonVisibilitySetClearButtonVisibilityMode">
+            <summary>Legt die shim von SfNumericTextBox.set_ClearButtonVisibility(ClearButtonVisibilityMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.CompletedAddEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_Completed(EventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.CompletedRemoveEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_Completed(EventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.Constructor">
+            <summary>Legt die shim von SfNumericTextBox.SfNumericTextBox() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.CultureGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Culture() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.CultureSetCultureInfo">
+            <summary>Legt die shim von SfNumericTextBox.set_Culture(CultureInfo value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.EnableGroupSeparatorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_EnableGroupSeparator() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.EnableGroupSeparatorSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_EnableGroupSeparator(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FocusChangedAddSfNumericTextBoxFocusEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_FocusChanged(FocusEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FocusChangedRemoveSfNumericTextBoxFocusEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_FocusChanged(FocusEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FocusedBorderColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FocusedBorderColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FocusedBorderColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_FocusedBorderColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontAttributesGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontAttributes() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontAttributesSetFontAttributes">
+            <summary>Legt die shim von SfNumericTextBox.set_FontAttributes(FontAttributes value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontFamilyGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontFamily() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontFamilySetString">
+            <summary>Legt die shim von SfNumericTextBox.set_FontFamily(String value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Font() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontSetFont">
+            <summary>Legt die shim von SfNumericTextBox.set_Font(Font value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontSizeDefaultValueCreator">
+            <summary>Legt die shim von SfNumericTextBox.FontSizeDefaultValueCreator() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontSizeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FontSize() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FontSizeSetDouble">
+            <summary>Legt die shim von SfNumericTextBox.set_FontSize(Double value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FormatStringGet">
+            <summary>Legt die shim von SfNumericTextBox.get_FormatString() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.FormatStringSetString">
+            <summary>Legt die shim von SfNumericTextBox.set_FormatString(String value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.GetDefaultTextFontFamily">
+            <summary>Legt die shim von SfNumericTextBox.GetDefaultTextFontFamily() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.GetDefaultWaterMarkColor">
+            <summary>Legt die shim von SfNumericTextBox.GetDefaultWaterMarkColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.GroupSeparatorModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_GroupSeparatorMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.GroupSeparatorModeSetGroupSeparatorMode">
+            <summary>Legt die shim von SfNumericTextBox.set_GroupSeparatorMode(GroupSeparatorMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.IsReadOnlyGet">
+            <summary>Legt die shim von SfNumericTextBox.get_IsReadOnly() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.IsReadOnlySetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_IsReadOnly(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.IsfocusGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Isfocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.IsfocusSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_Isfocus(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MaximumGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Maximum() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MaximumNumberDecimalDigitsGet">
+            <summary>Legt die shim von SfNumericTextBox.get_MaximumNumberDecimalDigits() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MaximumNumberDecimalDigitsSetInt32">
+            <summary>Legt die shim von SfNumericTextBox.set_MaximumNumberDecimalDigits(Int32 value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MaximumSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Maximum(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MinimumGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Minimum() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.MinimumSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Minimum(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnAllowNullPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnAllowNullPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnBorderColorPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnBorderColorPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnClearButtonVisibilityPropetyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnClearButtonVisibilityPropetyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnCulturePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnCulturePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnEnableGroupSeparatorPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnEnableGroupSeparatorPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFocusedBorderColorPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFocusedBorderColorPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFontAttributesPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFontAttributesPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFontFamilyPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFontFamilyPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFontPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFontPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFontSizePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFontSizePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnFormatStringPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnFormatStringPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnGroupSeparatorModePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnGroupSeparatorModePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnIsReadOnlyPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnIsReadOnlyPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnMaximumChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnMaximumChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnMaximumNumberDecimalDigitsPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnMaximumNumberDecimalDigitsPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnMinimumChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnMinimumChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnNumericTextPropertyChangedString">
+            <summary>Legt die shim von SfNumericTextBox.OnNumericTextPropertyChanged(String propertyName) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnParserModePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnParserModePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnPercentDisplayModePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnPercentDisplayModePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnReturnTypePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnReturnTypePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnSelectAllOnFocusPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnSelectAllOnFocusPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnTextAlignmentPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnTextAlignmentPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnTextColorPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnTextColorPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnValueChangeModePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnValueChangeModePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnValuePropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnValuePropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnWatermarkColorPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnWatermarkColorPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.OnWatermarkPropertyChangedBindableObjectObjectObject">
+            <summary>Legt die shim von SfNumericTextBox.OnWatermarkPropertyChanged(BindableObject bindable, Object oldValue, Object newValue) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ParserModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ParserMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ParserModeSetParsers">
+            <summary>Legt die shim von SfNumericTextBox.set_ParserMode(Parsers value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.PercentDisplayModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_PercentDisplayMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.PercentDisplayModeSetPercentDisplayMode">
+            <summary>Legt die shim von SfNumericTextBox.set_PercentDisplayMode(PercentDisplayMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.PropertiesChangedGet">
+            <summary>Legt die shim von SfNumericTextBox.get_PropertiesChanged() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.PropertiesChangedSetListOfString">
+            <summary>Legt die shim von SfNumericTextBox.set_PropertiesChanged(List`1&lt;String&gt; value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.RaiseCompletedEventActionEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseCompletedEventAction(EventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.RaiseFocusChangingFocusEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseFocusChanging(FocusEventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.RaiseValueChangingValueEventArgs">
+            <summary>Legt die shim von SfNumericTextBox.RaiseValueChanging(ValueEventArgs args) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnCommandGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnCommand() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnCommandParameterGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnCommandParameter() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnCommandParameterSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnCommandParameter(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnCommandSetICommand">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnCommand(ICommand value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnTypeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ReturnType() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ReturnTypeSetReturnType">
+            <summary>Legt die shim von SfNumericTextBox.set_ReturnType(ReturnType value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.SelectAllOnFocusGet">
+            <summary>Legt die shim von SfNumericTextBox.get_SelectAllOnFocus() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.SelectAllOnFocusSetBoolean">
+            <summary>Legt die shim von SfNumericTextBox.set_SelectAllOnFocus(Boolean value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.StaticConstructor">
+            <summary>Legt die shim von SfNumericTextBox.SfNumericTextBox() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.SyncfusionXFormsThemesIParentThemeElementGetThemeDictionary">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IParentThemeElement.GetThemeDictionary() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.SyncfusionXFormsThemesIThemeElementOnCommonThemeChangedStringString">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IThemeElement.OnCommonThemeChanged(String oldTheme, String newTheme) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.SyncfusionXFormsThemesIThemeElementOnControlThemeChangedStringString">
+            <summary>Legt die shim von SfNumericTextBox.Syncfusion.XForms.Themes.IThemeElement.OnControlThemeChanged(String oldTheme, String newTheme) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.TextAlignmentGet">
+            <summary>Legt die shim von SfNumericTextBox.get_TextAlignment() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.TextAlignmentSetTextAlignment">
+            <summary>Legt die shim von SfNumericTextBox.set_TextAlignment(TextAlignment value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.TextColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_TextColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.TextColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_TextColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueChangeModeGet">
+            <summary>Legt die shim von SfNumericTextBox.get_ValueChangeMode() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueChangeModeSetValueChangeMode">
+            <summary>Legt die shim von SfNumericTextBox.set_ValueChangeMode(ValueChangeMode value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueChangedAddSfNumericTextBoxValueEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.add_ValueChanged(ValueEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueChangedRemoveSfNumericTextBoxValueEventHandler">
+            <summary>Legt die shim von SfNumericTextBox.remove_ValueChanged(ValueEventHandler value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Value() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.ValueSetObject">
+            <summary>Legt die shim von SfNumericTextBox.set_Value(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.WatermarkColorGet">
+            <summary>Legt die shim von SfNumericTextBox.get_WatermarkColor() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.WatermarkColorSetColor">
+            <summary>Legt die shim von SfNumericTextBox.set_WatermarkColor(Color value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.WatermarkGet">
+            <summary>Legt die shim von SfNumericTextBox.get_Watermark() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBox.WatermarkSetString">
+            <summary>Legt die shim von SfNumericTextBox.set_Watermark(String value) fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles">
+            <summary>Shim-Typ von Syncfusion.SfNumericTextBox.XForms.SfNumericTextBoxStyles</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.#ctor">
+            <summary>Initialisiert eine neue Shim-Instanz.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.#ctor(Syncfusion.SfNumericTextBox.XForms.SfNumericTextBoxStyles)">
+            <summary>Initialisiert einen neuen Shim für die gegebene Instanz.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.AllInstances">
+            <summary>Shims für alle Instanzenmember definieren</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.AllInstances.InitializeComponent">
+            <summary>Legt die shim von SfNumericTextBoxStyles.InitializeComponent() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.AllInstances.__InitComponentRuntime">
+            <summary>Legt die shim von SfNumericTextBoxStyles.__InitComponentRuntime() fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.BehaveAsCurrent">
+            <summary>Weist das &apos;Current&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.BehaveAsNotImplemented">
+            <summary>Weist das &apos;NotImplemented&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Behavior">
+            <summary>Weist das Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Bind(Xamarin.Forms.Internals.IResourceDictionary)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Bind(System.Collections.IEnumerable)">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Bind(System.Collections.Generic.ICollection{System.Collections.Generic.KeyValuePair{System.String,System.Object}})">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Bind(System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.Object}})">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Bind(System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>Bindet die Member der Schnittstelle an den Shim.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.Constructor">
+            <summary>Legt die shim von SfNumericTextBoxStyles.SfNumericTextBoxStyles() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.InitializeComponent">
+            <summary>Legt die shim von SfNumericTextBoxStyles.InitializeComponent() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimSfNumericTextBoxStyles.__InitComponentRuntime">
+            <summary>Legt die shim von SfNumericTextBoxStyles.__InitComponentRuntime() fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs">
+            <summary>Shim-Typ von Syncfusion.SfNumericTextBox.XForms.ValueEventArgs</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.#ctor">
+            <summary>Initialisiert eine neue Shim-Instanz.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.#ctor(Syncfusion.SfNumericTextBox.XForms.ValueEventArgs)">
+            <summary>Initialisiert einen neuen Shim für die gegebene Instanz.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.AllInstances">
+            <summary>Shims für alle Instanzenmember definieren</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.AllInstances.OldValueGet">
+            <summary>Legt die shim von ValueEventArgs.get_OldValue() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.AllInstances.OldValueSetObject">
+            <summary>Legt die shim von ValueEventArgs.set_OldValue(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.AllInstances.ValueGet">
+            <summary>Legt die shim von ValueEventArgs.get_Value() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.AllInstances.ValueSetObject">
+            <summary>Legt die shim von ValueEventArgs.set_Value(Object value) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.BehaveAsCurrent">
+            <summary>Weist das &apos;Current&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.BehaveAsNotImplemented">
+            <summary>Weist das &apos;NotImplemented&apos;-Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.Behavior">
+            <summary>Weist das Verhalten für alle Methoden des Shim-Typs zu.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.Constructor">
+            <summary>Legt die shim von ValueEventArgs.ValueEventArgs() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.OldValueGet">
+            <summary>Legt die shim von ValueEventArgs.get_OldValue() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.OldValueSetObject">
+            <summary>Legt die shim von ValueEventArgs.set_OldValue(Object value) fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.ValueGet">
+            <summary>Legt die shim von ValueEventArgs.get_Value() fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.ShimValueEventArgs.ValueSetObject">
+            <summary>Legt die shim von ValueEventArgs.set_Value(Object value) fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs">
+            <summary>Stub-Typ von Syncfusion.SfNumericTextBox.XForms.FocusEventArgs</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs.#ctor">
+            <summary>Initialisiert eine neue Instanz.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs.CallBase">
+            <summary>Ruft einen Wert ab, der angibt, ob die Basismethode anstelle des Fallback-Verhaltens abgerufen werden soll, oder legt diesen fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs.InitializeStub">
+            <summary>Initialisiert eine neue Instanz von type StubFocusEventArgs.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs.InstanceBehavior">
+            <summary>Ruft das Instanzverhalten ab, oder legt dieses fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubFocusEventArgs.InstanceObserver">
+            <summary>Ruft den Instanzbeobachter ab, oder legt ihn fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox">
+            <summary>Stub-Typ von Syncfusion.SfNumericTextBox.XForms.SfNumericTextBox</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.#ctor">
+            <summary>Initialisiert eine neue Instanz.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.CallBase">
+            <summary>Ruft einen Wert ab, der angibt, ob die Basismethode anstelle des Fallback-Verhaltens abgerufen werden soll, oder legt diesen fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.ChangeVisualState">
+            <summary>Legt die stub von VisualElement.ChangeVisualState() fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.ChangeVisualState01">
+            <summary>Legt die stub von VisualElement.ChangeVisualState() fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.GetChildElements(Xamarin.Forms.Point)">
+            <summary>Legt die stub von View.GetChildElements(Point point) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.GetChildElementsPoint">
+            <summary>Legt die stub von View.GetChildElements(Point point) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.GetSizeRequest(System.Double,System.Double)">
+            <summary>Legt die stub von VisualElement.GetSizeRequest(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.GetSizeRequestDoubleDouble">
+            <summary>Legt die stub von VisualElement.GetSizeRequest(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.InitializeStub">
+            <summary>Initialisiert eine neue Instanz von type StubSfNumericTextBox.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.InstanceBehavior">
+            <summary>Ruft das Instanzverhalten ab, oder legt dieses fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.InstanceObserver">
+            <summary>Ruft den Instanzbeobachter ab, oder legt ihn fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.InvalidateMeasure">
+            <summary>Legt die stub von VisualElement.InvalidateMeasure() fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.InvalidateMeasure01">
+            <summary>Legt die stub von VisualElement.InvalidateMeasure() fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnBindingContextChanged">
+            <summary>Legt die stub von View.OnBindingContextChanged() fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnBindingContextChanged01">
+            <summary>Legt die stub von View.OnBindingContextChanged() fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildAdded(Xamarin.Forms.Element)">
+            <summary>Legt die stub von VisualElement.OnChildAdded(Element child) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildAddedElement">
+            <summary>Legt die stub von VisualElement.OnChildAdded(Element child) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildRemoved(Xamarin.Forms.Element)">
+            <summary>Legt die stub von VisualElement.OnChildRemoved(Element child) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildRemoved(Xamarin.Forms.Element,System.Int32)">
+            <summary>Legt die stub von VisualElement.OnChildRemoved(Element child, Int32 oldLogicalIndex) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildRemovedElement">
+            <summary>Legt die stub von VisualElement.OnChildRemoved(Element child) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnChildRemovedElementInt32">
+            <summary>Legt die stub von VisualElement.OnChildRemoved(Element child, Int32 oldLogicalIndex) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnMeasure(System.Double,System.Double)">
+            <summary>Legt die stub von VisualElement.OnMeasure(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnMeasureDoubleDouble">
+            <summary>Legt die stub von VisualElement.OnMeasure(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnParentSet">
+            <summary>Legt die stub von NavigableElement.OnParentSet() fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnParentSet01">
+            <summary>Legt die stub von NavigableElement.OnParentSet() fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnPropertyChanged(System.String)">
+            <summary>Legt die stub von Element.OnPropertyChanged(String propertyName) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnPropertyChangedString">
+            <summary>Legt die stub von Element.OnPropertyChanged(String propertyName) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnPropertyChanging(System.String)">
+            <summary>Legt die stub von BindableObject.OnPropertyChanging(String propertyName) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnPropertyChangingString">
+            <summary>Legt die stub von BindableObject.OnPropertyChanging(String propertyName) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnSizeAllocated(System.Double,System.Double)">
+            <summary>Legt die stub von VisualElement.OnSizeAllocated(Double width, Double height) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnSizeAllocatedDoubleDouble">
+            <summary>Legt die stub von VisualElement.OnSizeAllocated(Double width, Double height) fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnSizeRequest(System.Double,System.Double)">
+            <summary>Legt die stub von VisualElement.OnSizeRequest(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="F:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBox.OnSizeRequestDoubleDouble">
+            <summary>Legt die stub von VisualElement.OnSizeRequest(Double widthConstraint, Double heightConstraint) fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles">
+            <summary>Stub-Typ von Syncfusion.SfNumericTextBox.XForms.SfNumericTextBoxStyles</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles.#ctor">
+            <summary>Initialisiert eine neue Instanz.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles.CallBase">
+            <summary>Ruft einen Wert ab, der angibt, ob die Basismethode anstelle des Fallback-Verhaltens abgerufen werden soll, oder legt diesen fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles.InitializeStub">
+            <summary>Initialisiert eine neue Instanz von type StubSfNumericTextBoxStyles.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles.InstanceBehavior">
+            <summary>Ruft das Instanzverhalten ab, oder legt dieses fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubSfNumericTextBoxStyles.InstanceObserver">
+            <summary>Ruft den Instanzbeobachter ab, oder legt ihn fest.</summary>
+        </member>
+        <member name="T:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs">
+            <summary>Stub-Typ von Syncfusion.SfNumericTextBox.XForms.ValueEventArgs</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs.#ctor">
+            <summary>Initialisiert eine neue Instanz.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs.CallBase">
+            <summary>Ruft einen Wert ab, der angibt, ob die Basismethode anstelle des Fallback-Verhaltens abgerufen werden soll, oder legt diesen fest.</summary>
+        </member>
+        <member name="M:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs.InitializeStub">
+            <summary>Initialisiert eine neue Instanz von type StubValueEventArgs.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs.InstanceBehavior">
+            <summary>Ruft das Instanzverhalten ab, oder legt dieses fest.</summary>
+        </member>
+        <member name="P:Syncfusion.SfNumericTextBox.XForms.Fakes.StubValueEventArgs.InstanceObserver">
+            <summary>Ruft den Instanzbeobachter ab, oder legt ihn fest.</summary>
+        </member>
+    </members>
+</doc>
